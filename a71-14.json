@@ -1,0 +1,22 @@
+{
+	"response": [
+		{
+			"maintainer": "Ryannbreston",
+			"oem": "Samsung",
+			"device": "Galaxy A71",
+			"filename": "Matrixx-v10.3.0-Unofficial-a71-Vanilla-20240220.zip",
+			"url": "https://github.com/RyannBreston/Matrixx-v10.3.0-Unofficial-a71-Vanilla-20240220.zip",
+			"timestamp": 1709347957,
+			"md5": "13ada52794523447e3ebd1b89b5b46b2",
+			"sha256": "53668cc3cef11835939c065faa69014cafb5ff6fd256c88f4e68e8d04f743b3f",
+			"size": 1106287404,
+			"version": "10.3.0",
+			"romtype": "UNOFFICIAL",
+			"forum": "https://xdaforums.com/m/ryanbreston.12794900/",
+			"gapps": "https://wiki.lineageos.org/gapps",
+			"firmware": "a71naxx-user 13 TP1A.220624.014 A715FXXSADXA2 release-key",
+			"donate": "https://ko-fi.com/ryannbreston",
+			"telegram": "https://t.me/Ryannbreston",
+		}
+	]
+}
